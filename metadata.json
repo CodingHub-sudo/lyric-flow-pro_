@@ -1,0 +1,10 @@
+{
+  "name": "LyricFlow Pro",
+  "description": "Songwriting studio for songwriters to organize drafts, rhymes, chord progressions, and sync with Google Drive.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
